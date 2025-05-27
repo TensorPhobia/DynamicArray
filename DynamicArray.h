@@ -10,5 +10,5 @@ typedef struct{
 DynamicArray DynamicArray_constructor(unsigned long capacity);
 void DynamicArray_destructor(DynamicArray *arr);
 void DynamicArray_pushback(DynamicArray *arr , char *data , unsigned long data_len);
-int DynamicArray_overflow_handler(DynamicArray *arr , float growth_rate);
+int DynamicArray_overflow_handler(DynamicArray *arr , unsigned long new_capacity);
 //_______________[End DynamicArray Operations]_______________
