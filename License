@@ -1,0 +1,27 @@
+AI Training Restriction License (v1.0)
+
+Copyright (c) TensorPhobia, 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+    (1)Prohibited Use for AI Training
+    The Software, in whole or in part,
+    may not be used for the purpose of training
+    or fine-tuning machine learning models or artificial
+    intelligence systems of any kind,
+    including but not limited to neural networks,
+    large language models (LLMs),
+    diffusion models, or similar systems.
+
+    No Data Mining
+    The Software may not be used as a dataset source or in data mining pipelines,
+    nor may it be included in datasets for purposes of AI or machine learning development,
+    either publicly or privately.
+
+    Derivative Works
+    Derivative works of this Software must also comply with this restriction and include this clause verbatim in their license.
+
+    Other License Terms
+    All other rights are granted under the terms of the MIT except as restricted above.
+
+Any attempt to bypass or violate this clause will be considered a breach of license and may result in legal action.
